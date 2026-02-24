@@ -1,5 +1,6 @@
 # Professional-Summary
-Director of Operations specializing in building scalable operating systems in remote and regulated environments. Designed onboarding, training, KPI, incentive, and compliance frameworks supporting 500+ distributed operators. Known for translating executive strategy into durable execution architecture that stabilizes growth without bureaucracy or execution drift. Founder with a patented consumer product background, blending entrepreneurship, systems design, and unit-economics discipline.
+Cross-functional operator and founder focused on building scalable execution architecture across remote, regulated, and growth-stage environments. Designed distributed operating systems supporting 500+ operators, co-built a venture that achieved $7M in profit within its first 18 months, and launched product initiatives spanning insurance, manufacturing, and consumer goods (provisional patent holder). Known for diagnosing execution drift, aligning incentives to outcomes, and translating strategy into durable systems teams can execute under real-world constraints.
+
 # Tyler Urann
 
 Revenue Operations & Sales Operations Leader
@@ -7,11 +8,14 @@ Revenue Operations & Sales Operations Leader
 I build scalable sales systems, optimize workflows, and improve unit economics in high-volume remote teams.
 
 ## What I Do
-- Revenue Operations (RevOps)
-- Process Mapping & Workflow Optimization
-- KPI Frameworks & Performance Dashboards
-- CRM Architecture (GoHighLevel, HubSpot-style systems)
-- Sales Training Systems
+- Operating System Design for Remote & Growth-Stage Organizations
+- Revenue Architecture & Unit Economics Optimization
+- Cross-Functional Execution Frameworks
+- KPI Design, Performance Governance & Incentive Alignment
+- Process Mapping, Workflow Stabilization & Execution Drift Diagnosis
+- CRM & Systems Infrastructure (GoHighLevel, Dialer, Custom Stacks)
+- Scalable Training & Enablement Architecture
+- Founder-Level Buildout Across Regulated, Manufacturing & Consumer Verticals
 
 ## Selected Projects
 - Scalable Remote Sales Training Architecture (500+ agents)
