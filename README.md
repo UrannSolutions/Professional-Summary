@@ -1,32 +1,25 @@
 # Tyler Urann
 
-Operations | Revenue | Business Systems
+## Operations · Revenue · Business Systems
 
-Cross-functional operator experienced in building and stabilizing scalable execution systems across remote, regulated, and growth-stage environments. Designed distributed operating infrastructure supporting 500+ operators, contributed to scaling a venture to $7M profit within its first 18 months, and developed product initiatives spanning insurance, manufacturing, and consumer goods (provisional patent holder).
+I build things that actually work when you put real people and real pressure behind them.
+Most of my career has been spent figuring out what's broken, fixing it, and making sure it doesn't break the same way twice. I've built remote sales infrastructure for 500+ operators, helped scale a venture to $7M profit in its first 18 months, and worked across insurance, manufacturing, and consumer goods — including a provisional patent along the way.
+I'm equally comfortable in the weeds or at the whiteboard. Strategy means nothing if the team can't execute it, so I stay close to both.
 
-Comfortable operating at multiple levels — from hands-on revenue execution to cross-functional framework design — with a focus on clarity, accountability, and durable systems that hold under scale.
+# What I actually do
 
-Known for diagnosing execution drift, aligning incentives to measurable outcomes, and translating strategy into durable systems teams can execute under real-world constraints.
-## What I Do
-- Operating System Design for Remote & Growth-Stage Organizations
-- Revenue Architecture & Unit Economics Optimization
-- Cross-Functional Execution Frameworks
-- KPI Design, Performance Governance & Incentive Alignment
-- Process Mapping, Workflow Stabilization & Execution Drift Diagnosis
-- CRM & Systems Infrastructure (GoHighLevel, Dialer, Custom Stacks)
-- Scalable Training & Enablement Architecture
-- Founder-Level Buildout Across Regulated, Manufacturing & Consumer Verticals
+- Build operating systems for remote and growth-stage teams
+- Design revenue architecture and fix unit economics
+- Create training and enablement that sticks
+- Diagnose why execution is drifting and fix the root cause
+- CRM and systems infrastructure — GoHighLevel, dialers, custom stacks
 
-## Selected Projects
-- Remote Sales Training Architecture (500+ Operators)  
-- Sales Performance Operating System  
-- Founder & Cross-Vertical Case Studies
+# Selected work
 
-## Tools
-- CRM systems
-- Google Sheets / Excel modeling
-- Process documentation
-- Automation tooling
+- Built a remote sales training system from scratch — 500+ operators, fully distributed
+- Designed a sales performance operating system that actually holds under real pressure
+- Cross-vertical case studies — from insurance to consumer goods to manufacturing, I've built in all of it
+
 
 ## Contact
 LinkedIn: www.linkedin.com/in/tyler-u-925777b6
