@@ -18,9 +18,9 @@ Known for diagnosing execution drift, aligning incentives to measurable outcomes
 - Founder-Level Buildout Across Regulated, Manufacturing & Consumer Verticals
 
 ## Selected Projects
-- Scalable Remote Sales Training Architecture (500+ agents)
-- Multi-State Insurance Compliance & QA Framework
-- Lead Allocation & Unit Economics Optimization Model
+- Remote Sales Training Architecture (500+ Operators)  
+- Sales Performance Operating System  
+- Founder & Cross-Vertical Case Studies
 
 ## Tools
 - CRM systems
