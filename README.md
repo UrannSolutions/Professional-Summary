@@ -24,7 +24,7 @@ what level I'm operating at.
 - CRM and systems infrastructure — GoHighLevel, dialers, custom stacks
 
 ## Selected work
-- Built a remote sales training system from scratch — 500+ operators, fully 
+- Built a remote sales training system from scratch — several hundred operators (and growing), fully 
   distributed
 - Designed a sales performance operating system that holds under real pressure
 - Cross-vertical case studies — insurance, consumer goods, manufacturing, 
