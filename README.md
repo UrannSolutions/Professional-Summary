@@ -8,7 +8,7 @@ whatever was in between — usually all at once.
 Most of my career has been spent in the deep end. Not managing from a 
 distance, but actually in it — diagnosing what's broken, building the fix, 
 and making sure it holds when real people and real pressure get behind it. 
-I've built remote sales infrastructure for 500+ operators, helped scale a 
+I've built remote sales infrastructure for several hundred operators, helped scale a 
 venture to $7M profit in its first 18 months, and worked across insurance, 
 manufacturing, and consumer goods along the way.
 
